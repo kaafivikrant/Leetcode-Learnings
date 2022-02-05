@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "json": "^11.0.0",
+    "nodemon": "^2.0.15",
+    "sqlite3": "^5.0.2"
+  }
+}
